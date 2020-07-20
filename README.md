@@ -1,4 +1,4 @@
-ProtocolSupportBungee
+LightstoneEngine-Bungee (ProtocolSupport-AtHeart)
 ================
 
 [![Build Status](https://build.true-games.org/buildStatus/icon?job=ProtocolSupportBungee)](https://build.true-games.org/job/ProtocolSupportBungee/)
