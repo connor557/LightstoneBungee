@@ -26,4 +26,4 @@ Jenkins: http://build.true-games.org/job/ProtocolSupportBungee/
 
 ---
 
-Licensed under the terms of GNU AGPLv3
+Licensed under the terms of GNU AGPLv3 (except where license adjunct trumps these terms)
